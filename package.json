@@ -2,6 +2,7 @@
   "name": "react-with-gsap",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.austinoboyle.com/react-with-gsap-tutorial",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "gsap": "^1.20.4",
