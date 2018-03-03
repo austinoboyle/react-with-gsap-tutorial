@@ -1,0 +1,10 @@
+.fade {
+    opacity: 0;
+    background: lightblue;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
